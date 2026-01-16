@@ -25,6 +25,5 @@ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE274103
 - Enrichment of plasma cell–rich immune niches adjacent to CAF-dominated stroma
 - Structured spatial organization of tumor, immune, and stromal compartments
 
-
-
+Spatial clustering of PDAC Visium data identified a structured tumor microenvironment composed of distinct but spatially associated compartments. Leiden 1 was defined as a central immune–epithelial cluster expressing epithelial genes (INS, IAPP) alongside immune and antigen-presentation markers (PTPRC, HLA-DPA1) and chemokine signaling components (CCL19, C3). Spatial neighborhood analysis revealed that Leiden 1 exhibited the strongest spatial associations with a plasma cell–enriched immune cluster (Leiden 6), a CAF-dominant stromal compartment (Leiden 8), and a ductal tumor-like epithelial cluster (Leiden 4). Leiden 6 showed high expression of immunoglobulin genes (IGHG1, IGHA1, IGKC, JCHAIN), while Leiden 8 was characterized by extracellular matrix–related genes (IGFBP3/5, SERPINE1, TIMP3, LUM, CST1). Leiden 4 displayed ductal epithelial and tumor-associated markers (TFF1, LGALS4, MMP7, SLC2A1). These findings demonstrate a non-random spatial organization of immune, stromal, and epithelial compartments within PDAC tissue.
 
