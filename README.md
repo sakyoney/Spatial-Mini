@@ -1,6 +1,12 @@
 # Spatial-Mini
 Spatial Transcriptomic Mini Project
 
+This repository contains all the steps and intermediate attempts I explored throughout the analysis process. Errors, redundant lines, and iterative code blocks are a natural part of my learning, experimentation, and implementation workflow.
+
+Therefore, this repository should not be considered a production-ready or directly reusable pipeline. The primary motivation is to extract biologically meaningful insights from the data and to transparently document the analytical reasoning behind each step.
+
+All analyses were conducted entirely on a personal local computing environment. For this reason, a relatively small dataset was intentionally selected to keep computational requirements manageable.
+
 ## Data download
 - GEO accession: **GSE274103**
 - Platform: 10x Genomics Visium
